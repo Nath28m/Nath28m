@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C++, Python**
 
+- 👨‍💻 [I will upload my projects to my repositories](I will upload my projects to my repositories)
+  
 - 💬 Ask me about **Cybersecurity or hobbies**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nath28m&label=Profile%20views&color=0e75b6&style=flat" alt="nath28m" /> </p>
 
+<script src="https://tryhackme.com/badge/1450265"></script>
+
 ### :man_technologist: About Me :
 
 - ✨ Currently a **Computer Science and Cybersecurity student**

@@ -3,7 +3,7 @@
 
 - ✨ Currently a **Computer Science and Cybersecurity student**
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **Python (scripting)**
 
 - 💬 Ask me about **Cybersecurity or hobbies**
 
